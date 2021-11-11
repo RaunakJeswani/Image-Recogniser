@@ -1,0 +1,22 @@
+body {
+    background-color: yellow;
+    color: cyan;
+}
+
+.heading {
+    width: 80%;
+    text-align: center;
+    font-size: 30px;
+}
+
+#camera {
+    border: 2px dashed coral;
+    width: 350px;
+    height: 350px;
+}
+
+.name_of_objects,
+#result_oject_name,
+#result_object_accuracy {
+    color: red;
+}
